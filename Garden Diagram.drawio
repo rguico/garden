@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T05:01:55.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="vIdpuAUOOz3SGCGD1aB3" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T05:05:35.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="8mDGBdFHlfUAOQ-YbVfV" version="14.7.0" type="github">
   <diagram id="8aN0rm1MY_QhQ1KlozjM" name="Page-1">
     <mxGraphModel dx="1200" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-74" value="Peony &#39;Festiva Maxima&#39;?&amp;nbsp;- 30&quot; H&lt;br&gt;Spring-Summer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-76" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="285" y="520" as="sourcePoint" />
-            <mxPoint x="285" y="280" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry x="45" y="240" width="50" height="50" as="geometry">
@@ -126,7 +120,7 @@
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-124" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="Cx3Qpiqb-a-1uhkqveDJ-123">
           <mxGeometry width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-125" value="Nepeta &quot;Walker&#39;s Low&quot;&lt;br&gt;Late Spring-Summer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;" vertex="1" parent="Cx3Qpiqb-a-1uhkqveDJ-123">
+        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-125" value="Nepeta &quot;Walker&#39;s Low&quot; 2-3&#39;&lt;br&gt;Late Spring-Summer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;" vertex="1" parent="Cx3Qpiqb-a-1uhkqveDJ-123">
           <mxGeometry x="10" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-181" value="Lupine" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="Cx3Qpiqb-a-1uhkqveDJ-123">
@@ -189,8 +183,8 @@
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-163" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="40" y="630" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-164" value="Campanula &#39;Birch Hybrid&#39; (Bellflower)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="640" width="210" height="20" as="geometry" />
+        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-164" value="Campanula &#39;Birch Hybrid&#39; (Bellflower)&lt;br&gt;4-6&quot;&lt;br&gt;Early summer - Fall" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-165" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="40" height="40" as="geometry" />
@@ -234,7 +228,7 @@
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-186" value="Veronica Spicata &#39;Blue Charm&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="575" y="280" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-187" value="Spring" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-187" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="55" y="100" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cx3Qpiqb-a-1uhkqveDJ-188" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
